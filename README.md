@@ -1,3 +1,15 @@
+# template引用地址
+
+https://github.com/ZhaoUncle/Unraid/templates
+
+# 图片访问地址
+
+
+https://cdn.jsdelivr.net/gh/ZhaoUncle/Unraid@main/template/<添加图片的路径，你自己在里面看吧>
+
+
+举例：https://cdn.jsdelivr.net/gh/ZhaoUncle/Unraid@main/templates/images/Navigation-Hugo-Webstack.png
+
 # Unraid APP
 
 UnRaid docker 模板库，目前支持的容器：
@@ -21,3 +33,6 @@ UnRaid docker 模板库，目前支持的容器：
 - https://github.com/A75G/docker-templates
 - https://github.com/RSG2019/unraid
 - https://github.com/shuosiw/unraid
+- 
+
+

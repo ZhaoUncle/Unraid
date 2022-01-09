@@ -5,7 +5,7 @@ https://github.com/ZhaoUncle/Unraid/templates
 # 图片访问地址
 
 
-https://cdn.jsdelivr.net/gh/ZhaoUncle/Unraid@main/template/<添加图片的路径，你自己在里面看吧>
+https://cdn.jsdelivr.net/gh/ZhaoUncle/Unraid@main/templates/<添加图片的路径，你自己在里面看吧>
 
 
 举例：https://cdn.jsdelivr.net/gh/ZhaoUncle/Unraid@main/templates/images/Navigation-Hugo-Webstack.png
